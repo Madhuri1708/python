@@ -20,6 +20,15 @@ r=float(input("input the radius of the circle:"))
 pi=3.14
 area=pi*r*r
 print("the area of circle:",area)
+
+#write a python program to swap 2 numbers
+x=5
+y=10
+temp=x
+x=y
+y=temp
+print("the value of x after swapping:",x)
+print("the value of y after swapping:",y)
    
 #variable
 a=100
