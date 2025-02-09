@@ -1,4 +1,5 @@
 **What is python?**
+--> python was developed by Guido van rossum
 --> python is a high level popular programming language.
 --> python is a object oriented programming language.
 --> interpreted , dynamically-typed , simple , readable & versatile programming language.
@@ -25,6 +26,8 @@
 **keywords**
 --> keywords are predefined,reserved words used in python programming.
 --> we cannot use a keyword as a variable name,function name or any other identifier.
+--> ex:and,as, assert,break,class,continue,def,elif,else,except,False,for,from,global,if,import,in,is,lambda,noniocal,none,not,or,raise,pass,return,True,try,with,while,yield
+
 
 **identifiers**
 identifiers are the name given to variables, classes,methods,etc.
@@ -47,18 +50,36 @@ In programming, a variables is a container(storage area) to hold data.
 **constants**
 --> A Constant is a special type of variable whose value cannot be changed.
 
-**literals**
--->Literals are representations of fixed values in a program.
-They can be numbers, characters,or strings,etc.
-**Types of Literals**
-1.Numeric Literals
-2.String Literals
-3.Boolean Literals
-4.None Literals
-5.Bytes and Bytearray Literals
-6.Raw string Literals
-7.Numeric separator
-8.Collection literals:
--list,tuples,set,dictionary
+ **Data types**
+ --> integer
+ --> string
+ --> float
+ --> boolean
+ --> none
+
+**comments in python**
+-->the inclusion of short descriptions along with the code to increase its readability
+**types of comments**
+-->**single-line comments**
+ -->start with a hash symbol(#)
+ -->anything after the hash symbol on the same line is a comment
+ -->**multiline comment**
+ -->also known as block comments
+ -->enclosed by triple double quotes(""") 
+ -->used to provide detailed explanations,document code,or temporarily disable a block of code
+
+
+ **operators**
+ the operator is a symbol that perform a certain operation between operands
+ **types of operators**
+ 1.arithmetic operators(+,-,*,/,%,**)
+ 2.relation/comparison operators(==,!=,<,>,<=,>=)
+ 3.assignment operators(=,+=,-=,*=,/=,%=**=)
+ 4.logical operators(not,and,or)
+ 
+ 
+ 
+ 
+ 
 
  
